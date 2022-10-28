@@ -1,0 +1,29 @@
+<div class="container">
+  <div class="row m-5 justify-content-center">
+    <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+      <div class="col-12 mt-3 text-center">
+        <h1 class="text-dark">Welcome to QuizAPP</h1>
+      </div>
+      <form #userForm="ngForm" (ngSubmit)="userForm.form.valid && onSubmit(userForm)">
+        <div class="form-group">
+          <label  class="text-muted">Name</label>
+          <input
+            type="text"
+            name="name"
+            class="form-control"
+            ngModel
+            #_user="ngModel"
+            [ngClass]="{ 'is-invalid': (userForm.submitted && _user.invalid) || (_user.invalid && _user.touched) }"
+            required>
+          <div class="invalid-feedback" *ngIf="_user.invalid" >
+            <div *ngIf="_user.errors['required']">Name is required</div>
+          </div>
+        </div>
+        <div class="form-group mt-1 fo">
+          <button class="btn btn-success btn-block form-control">Start Quiz!</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
