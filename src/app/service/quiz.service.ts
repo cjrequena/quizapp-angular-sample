@@ -10,6 +10,7 @@ export class QuizService {
   }
 
   retrieveQuestions() {
-    return this.httpClient.get<any>("assets/questions.json", {observe: "body"});
+    //return this.httpClient.get<any>("assets/questions.json", {observe: "body"});
+    return this.httpClient.get<any>("assets/water-cycle-questions.json", {observe: "body"});
   }
 }

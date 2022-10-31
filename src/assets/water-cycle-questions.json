@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "questionText": "La gran mayoría del agua de la Tierra es agua salada y se encuentra en los océanos.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Solo una pequeña fracción del agua de la tierra es agua dulce de fácil acceso, que es lo que necesitan los humanos.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "El agua que se encuentra en la superficie de la Tierra puede circular rápidamente, pero gran parte del agua de la Tierra se encuentra en hielo, océanos y depósitos subterráneos; esta agua circula lentamente.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "El ciclo del agua es complejo e implica cambios de estado en el agua, así como el movimiento físico del agua a través y entre los ecosistemas.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "El agua subterránea se encuentra bajo tierra entre las partículas del suelo y en las grietas de las rocas. Los acuíferos son reservorios de agua subterránea a menudo explotados por pozos.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "El agua es bastante importante para los seres vivos. Su cuerpo es más de la mitad de agua, y si tuviéramos que echar un vistazo a sus células, ¡descubriríamos que tenían más del 70% de agua!",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "La mayoría de los animales terrestres, necesita un suministro confiable de agua dulce para sobrevivir.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Del agua de la Tierra, el 97,5% es agua salada. Del agua restante, más del 99% se encuentra en forma de agua subterránea o hielo.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Menos del 1% del agua dulce se encuentra en lagos, ríos y otras formas superficiales disponibles.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Muchos seres vivos dependen de este pequeño suministro de agua dulce superficial y la falta de agua puede tener efectos graves en los ecosistemas.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    },
+    {
+      "questionText": "Los seres humanos han ideado algunas tecnologías para aumentar la disponibilidad de agua.",
+      "options": [
+        {
+          "text": "True",
+          "correct": true
+        },
+        {
+          "text": "False"
+        }
+      ],
+      "explanation": ""
+    }
+  ]
+}
